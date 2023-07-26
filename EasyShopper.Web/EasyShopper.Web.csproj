@@ -10,4 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EasyShopper.Doman\EasyShopper.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
